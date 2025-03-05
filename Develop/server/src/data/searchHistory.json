@@ -1,0 +1,26 @@
+[
+  {
+    "name": "New York",
+    "id": "4a7adb6b-f736-4fab-b871-7fd477c1c2fc"
+  },
+  {
+    "name": "San diego",
+    "id": "6997d9e2-87ff-42c8-afdc-05477db4f6db"
+  },
+  {
+    "name": "Los Angeles",
+    "id": "39140a81-ad15-4f07-8b2d-0e23ad645c32"
+  },
+  {
+    "name": "Houston",
+    "id": "45b45c9f-14e0-4f65-975c-588fc510a300"
+  },
+  {
+    "name": "Chicago",
+    "id": "de5a16a2-916b-4487-8618-a43478f658fd"
+  },
+  {
+    "name": "phoenix",
+    "id": "95f84840-d621-4e6c-aecb-a24ff14b20a3"
+  }
+]
