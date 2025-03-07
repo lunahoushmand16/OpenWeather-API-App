@@ -1,9 +1,5 @@
 [
   {
-    "name": "New York",
-    "id": "4a7adb6b-f736-4fab-b871-7fd477c1c2fc"
-  },
-  {
     "name": "San diego",
     "id": "6997d9e2-87ff-42c8-afdc-05477db4f6db"
   },
@@ -22,5 +18,13 @@
   {
     "name": "phoenix",
     "id": "95f84840-d621-4e6c-aecb-a24ff14b20a3"
+  },
+  {
+    "name": "new york",
+    "id": "79fc4080-cd89-40d6-b079-a1907c7b1e5a"
+  },
+  {
+    "name": "Austin",
+    "id": "579d542e-0923-4559-86db-4ed53d0540e6"
   }
 ]
